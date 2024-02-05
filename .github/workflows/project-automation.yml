@@ -18,9 +18,9 @@ on:
       - reopened
 
 env:
-  PROJECT_ORG: {{{PROJECT_ORG}}}
+  PROJECT_ORG: riflessidigitali
   PRIMARY_CODEOWNER: ""
-  PROJECT_ID: {{{PROJECT_ID}}}
+  PROJECT_ID: "2"
 
 jobs:
 
